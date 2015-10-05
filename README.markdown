@@ -5,7 +5,7 @@ minutes later, it says the coffee is done.
 
 Installation / setup: follow [particle-cli instructions][particle-instructions]
 
-particle-instructions: http://docs.particle.io/core/connect/#connecting-your-device-connect-over-usb
+[particle-instructions]: http://docs.particle.io/core/connect/#connecting-your-device-connect-over-usb
 
 Also, you need to copy `env_vars.example.h` and change the constants to be where
 the coffee server is located (see HTTP client information below).
